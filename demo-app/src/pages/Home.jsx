@@ -2,7 +2,7 @@ import React from "react";
 
 import { Outlet } from "react-router-dom";
 import Products from "./Products";
-
+//home page
 export default function Home() {
   return (
     <div
